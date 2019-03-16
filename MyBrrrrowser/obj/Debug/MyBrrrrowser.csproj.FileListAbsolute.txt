@@ -1,0 +1,13 @@
+D:\src\MyBrrrrowser\MyBrrrrowser\bin\Debug\MyBrrrrowser.exe.config
+D:\src\MyBrrrrowser\MyBrrrrowser\bin\Debug\MyBrrrrowser.exe
+D:\src\MyBrrrrowser\MyBrrrrowser\bin\Debug\MyBrrrrowser.pdb
+D:\src\MyBrrrrowser\MyBrrrrowser\obj\Debug\MyBrrrrowser.csprojAssemblyReference.cache
+D:\src\MyBrrrrowser\MyBrrrrowser\obj\Debug\MyBrrrrowser.Properties.Resources.resources
+D:\src\MyBrrrrowser\MyBrrrrowser\obj\Debug\MyBrrrrowser.temp.resources
+D:\src\MyBrrrrowser\MyBrrrrowser\obj\Debug\MyBrrrrowser.csproj.GenerateResource.cache
+D:\src\MyBrrrrowser\MyBrrrrowser\obj\Debug\MyBrrrrowser.csproj.CoreCompileInputs.cache
+D:\src\MyBrrrrowser\MyBrrrrowser\obj\Debug\MyBrrrrowser.exe
+D:\src\MyBrrrrowser\MyBrrrrowser\obj\Debug\MyBrrrrowser.pdb
+D:\src\MyBrrrrowser\MyBrrrrowser\bin\Debug\Data\Database1.mdf
+D:\src\MyBrrrrowser\MyBrrrrowser\bin\Debug\Data\Database1_log.ldf
+D:\src\MyBrrrrowser\MyBrrrrowser\obj\Debug\MyBrrrrowser.Browser1.resources
